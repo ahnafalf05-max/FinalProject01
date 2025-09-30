@@ -5,6 +5,7 @@ public class Test {
 
      System.out.println("hi, aku Rayyan");
      System.out.println("hi aku maba 2025");
+     System.out.println(".(aku anak kuat)");
 
     }
 }
