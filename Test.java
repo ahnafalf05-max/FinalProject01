@@ -8,6 +8,7 @@ public class Test {
      System.out.println(".(aku anak kuat)");
 
      System.out.println("Halo,namaku Ghifari");
+     System.out.println("Saya berasal dari malang");
 
     }
 }
